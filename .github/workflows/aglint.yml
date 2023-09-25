@@ -50,4 +50,4 @@ jobs:
       # If the linter found any errors, it will exit with a non-zero
       # code, which will cause the job to fail
       - name: Run AGLint
-        run: npm run lint
+        run: npx aglint
