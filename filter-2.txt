@@ -1,0 +1,5 @@
+! Title: Test Filter List
+##.valid-class-selector
+##.#invalid-class-selector
+example.com##.ads
+/ads.js^$script,domain=example.com
