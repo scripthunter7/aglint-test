@@ -1,1 +1,3 @@
 ! Title: Test Filter List
+##.valid-class-selector
+##.#invalid-class-selector
