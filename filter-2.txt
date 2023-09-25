@@ -3,3 +3,4 @@
 ##.#invalid-class-selector
 example.com##.ads
 /ads.js^$script,domain=example.com
+||example.net^$third-party
